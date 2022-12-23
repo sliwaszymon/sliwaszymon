@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=szymon242820" alt="szymon242820" /></a> </p>
 <img align="right" alt="Coding" width="400" src="./programmer.gif">
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szymon242820" alt="szymon242820" /></a> </p>
 
 - 🌱 I’m currently learning **SpringBoot and Angular**
 
