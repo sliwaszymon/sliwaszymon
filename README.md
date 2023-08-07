@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js and Angular**
+- If I need to do something quickly and be sure it will work then I will do it in **Python**
 
 - 📫 How to reach me **szymon242820@gmail.com**
 
